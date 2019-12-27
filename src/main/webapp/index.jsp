@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">this is the project with git jenkins tomcat</h1>
       <h2 class="text-center">Now you are with srinivas</h2>
-      <h3 class="text-center">Git change 1</h3>
+      <h3 class="text-center">Git change 1.22222</h3>
 
   </div>
 </body>
